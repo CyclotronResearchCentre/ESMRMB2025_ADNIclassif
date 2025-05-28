@@ -13,8 +13,7 @@ Input Files:
 - 3T T1 image
 - label: NC MCI AND DEMENTIA or AD
 Output Files:
-features of patients
-"""
+ Mask of Bilateral hippocampi and whole brain  """
 import os
 import subprocess
 import pandas as pd
