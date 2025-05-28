@@ -13,7 +13,7 @@ https://adni.loni.usc.edu
 Cohorts: AD patients vs. Healthy Controls
 
 ## Pipeline
-** Step1: Hippocampus Segmentation**
+**Step1: Hippocampus Segmentation****
 
 Bilateral hippocampus segmentation using HippoDeep
 
@@ -25,7 +25,7 @@ First-order statistics
 3D shape features
 Texture features (GLCM, GLDM, GLSZM)
 
-** step3: Robustness Analysis
+**step3: Robustness Analysis
 Nonlinear Concordance Correlation Coefficient (NCCC)
 
 Measures feature agreement between 1.5T/3.0T paired scans
@@ -36,7 +36,7 @@ Wilcoxon Signed-Rank Test (WSR)
 
 Identifies features with not significant field-strength-dependent variations (p>0.05)
 
-** step4: Radiomic
+**step4: Radiomic
 Feature selection:
 Mutual information scores
 
