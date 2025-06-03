@@ -13,7 +13,7 @@ https://adni.loni.usc.edu
 Cohorts: AD patients vs. Healthy Controls
 
 ## Pipeline
-**Step1: Hippocampus Segmentation****
+**Step1: Hippocampus Segmentation**
 
 Bilateral hippocampus segmentation using HippoDeep
 
