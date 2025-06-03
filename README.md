@@ -25,7 +25,7 @@ First-order statistics
 3D shape features
 Texture features (GLCM, GLDM, GLSZM)
 
-**step3: Robustness Analysis
+**step3: Robustness Analysis**
 Nonlinear Concordance Correlation Coefficient (NCCC)
 
 Measures feature agreement between 1.5T/3.0T paired scans
